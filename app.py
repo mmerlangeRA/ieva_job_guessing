@@ -4,7 +4,7 @@ import pandas as pd
 import json
 from io import BytesIO
 
-api_key = "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"
+api_key=st.secrets["api_key"]
 temperature=0.0
 max_tokens=1000
 frequency_penalty=0.0
