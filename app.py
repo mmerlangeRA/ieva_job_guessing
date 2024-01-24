@@ -5,6 +5,7 @@ import json
 from io import BytesIO
 
 api_key=st.secrets["api_key"]
+
 temperature=0.0
 max_tokens=1000
 frequency_penalty=0.0
@@ -54,6 +55,7 @@ def call_openai_api(model_choice, text_content):
                 stop=None)
         return response.choices[0].message.content.strip()
     except Exception as e:
+        st.error(f"An error occurred: {e}")
         return f"An error occurred: {e}"
 
 
@@ -66,6 +68,7 @@ def process_files(files, model_choice):
         file_content = read_file(file)
         prompt = prompt_template.format(file_content=file_content)
         result = call_openai_api(model_choice, prompt)
+        print(result)
         json_data = parse_json(result)
         results.append(specific_json_format(json_data))
         index+=1
