@@ -1,0 +1,33 @@
+Title 
+Cybersecurity Specialist
+
+Profil du candidat
+If you’d like to deal with technological and digital projects, keen on new challenges and ready to propose an innovative approach in an international context, this is the right opportunity for you.
+
+TotalEnergies Italia Servizi is seeking a Cybersecurity Specialist: you will manage and implement cybersecurity projects for all the Company's entities in Italy. You will have the opportunity to work in a dynamic and global environment, collaborating with passionate individuals from different fields, being part of our pioneering journey.
+
+Degree in Computer Science, Software Development or equivalent in Network Engineering
+5 years of IT experience, preferably in the upstream petroleum industry.
+High level knowledge of all IS processes, networks, and infrastructures.
+Formal certification such as Cisco Certified Network Administrator (CCNA) or equivalent is a plus.
+Knowledge of firewall, SDWAN technologies is a plus.
+Good knowledge of Microsoft Windows Server and client operating systems is a plus.
+Extensive level of skills and knowledge of information cybersecurity. Formal certification is not required but an equivalent level to be able to gain CISSP (Certified Information Systems Security Professional) is a plus.
+Good interpersonal and business communication skills with ability to interact across all levels within the organization up to the Managing director, across geographical boundaries/international environment and with all stakeholders.
+Fluent in English and Italian.
+
+Activités
+The IS Security Specialist is responsible for the implementation and control of SIE risks management policies according to Company directives.
+
+With assistance and support from the IT Manager, the scope of the activities includes:
+
+Define with the local management the IS security policy and governance, compliant with the IS security referential specified at TotalEnergies Company level and local regulation.
+Ensure the effective application of TotalEnergies Company and Branch directives, rules and guidelines relating to IS security.
+Define the affiliate IS security rules and recommendations, monitor their application, and report non-conformities
+Assist the affiliate in their classification initiative of IS resources and risk mapping
+Guide the definition of risk mitigation plans related to security weaknesses or granted waiver and then monitor their progress.
+Ensure all necessary actions/measures are taken to minimize the presence/impact of IS security vulnerabilities.
+Contribute, together with the branch's level 1 Cyber team, to the remediation by monitoring the action plan aimed at reducing the detected vulnerabilities.
+Support locally the audit, review and security tests managed by the company representatives.
+Validates change requests that have an impact on cyber security.
+Actively participate in the provision of all training, presentations, and communications, aimed at ensuring and raising IS cyber security awareness in the affiliate.

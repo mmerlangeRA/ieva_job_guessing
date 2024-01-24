@@ -1,0 +1,45 @@
+title
+Chef de projet SI et Digital Finance
+
+Expérience
+Minimum 6 ans
+Profil du candidat
+De formation initiale ingénieur ou équivalent, vous justifiez d’au moins 6 ans d'expérience en gestion de projets IT Finance dans un milieu industriel et international.
+
+Vous avez :
+• une expérience sur les processus finances au sens large (Procure To Pay, Order To Cash, Accounting, IFRS15, Segregation of Duties)
+• une appétence et curiosité pour les outils digitaux et leur fonctionnement
+• mené différents projets en parallèle dans un environnement industriel.
+
+Une expérience sur l’ERP QAD et/ou la solution Esker est un plus.
+
+Vous allez de l’avant, êtes force de proposition et disposez de leadership. Vous avez aussi un sens de l'analyse, des connaissances métiers finances et un goût pour la transmission de vos savoirs.
+Vous maîtrisez l’anglais technique et êtes ouvert aux déplacements géographiques.
+
+Si vous souhaitez travailler sur des projets alliant technologies, digital et amélioration continue dans l'industrie, alors rejoignez-nous pour poursuivre l'aventure digitale de Saft.
+
+Poste localisé à Levallois, siège de Saft et de la finance corporate, avec une possibilité de 2 jours de télétravail par semaine.
+
+Activités
+Il/Elle travaillera en relation avec les équipes opérationnelles Finances, l’IT Corporate et les éditeurs / intégrateurs dans le respect des contraintes de budget, de planning, de standards applications / infrastructure et de cybersécurité.
+
+Il/Elle gérera de façon complète des projets IT Finance en allant de la phase de cadrage du besoin avec l’analyse et la formalisation des attentes métiers par ordre de priorité et complexité technique jusqu’à l’implémentation suivant une méthodologie agile et au maintien opérationnel. Il/Elle travaillera en binôme avec le chef de projet SI et digital Opérations.
+
+Il/Elle agit en AMOA pour garantir l’adéquation des besoins métiers et des réalisations applicatives :
+• Rédige avec le métier Finance les cahiers des charges et spécifications fonctionnelles
+• analyse et restitue les attentes des parties prenantes (spécifications)
+• organise et coordonne les ateliers
+• s’assure de la qualité des documents projets et des livrables techniques
+• accompagne les utilisateurs au changement et à l'adoption des nouvelles solutions
+
+IL/Elle agit en chef de projet :
+• coordonne des ressources techniques, métier et pilote le planning & leurs managers (management transverse)
+• planifie & suit des points d’étape, analyse les risques, la tenue des délais et des coûts
+• participe au recette fonctionnelle et déploiement
+• gère la relation avec les intégrateurs / fournisseurs sur les différentes applications
+• participe à la vision (roadmap) et contribue à la digitalisation et à l’amélioration continue de l’entreprise, en particulier pour la roadmap long-terme de mise en place d’un nouvel ERP Saft.
+• préconise les priorités - estime les ROI, délais et coûts des projets
+
+Il/Elle garantit le support des applications fonctionnelles des applications finances existantes avec le :
+• suivi des évolutions des applicatifs existants
+• le support des applicatifs existants via la maintenance corrective et évolutive

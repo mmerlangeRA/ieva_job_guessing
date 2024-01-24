@@ -1,0 +1,30 @@
+title
+BUSINESS PROCESS TRANSFORMER
+
+Profil du candidat
+Conocimientos avanzados de SAP en los módulos FI y CO obligatoriamente.
+Conocimientos sobre manejo de proyectos y coordinación de tareas con terceros.
+Buen trato y escucha a los usuarios
+Experiencia mínima: Haber trabajado en una posición similar o haber participado en proyectos de implementación SAP tanto del lado funcional del sistema o del lado del negocio (contabilidad, administración de empresas, control de gestión, etc).
+Disponible para viajes
+Espíritu de autonomía, de análisis y síntesis
+Capacidad para encontrar soluciones en un entorno difícil, dadas la diversidad de problemas, las limitaciones de costo y la organización SI y MS
+Buen conocimiento de la operación del negocio: Accounts Payable, Accounts Receivable, Treasury, Fixed Assets.
+Español e inglés obligatorio; Francés y Portugués deseado. 
+Activités
+Realizar capacitación de los Key users de Finanzas/Control de gestión y mantener animada esta red:
+Garantizar la adaptación del material existente en la Rama MS al contexto, localización e idiomas de la Zona
+Participar en la organización y animación de seminarios de key users
+Misiones de Apropiación de una a dos semanas para identificar y ayudar a implementar las acciones necesarias para garantizar el Change Management. Esto con la colaboración de la dirección de la fílial y los BPM de la Zona.
+Identificar, planificar y coordinar las tareas (en filial o central) necesarias para la implementación de proyectos “retrofit” SAP de la Rama o de la dirección (Ex: Estandarización de modelo de precios; Homogenización de procesos de tesorería, Delegación de poderes en liberación de crédito o en compra de bienes & servicios; Asistencia en la implementación de proyectos Grupo, etc.).
+Consolidar necesidades comunes a las filiales de la zona y ser fuerza de proposición para hacer evolucionar el Modelo Master SAP al servicio de la estrategia de la Zona Américas.
+Participación a las Comités de Pilotaje Master con otras Zonas
+Creación y animación de los Comités de seguimiento entre BPO y BPM de la Zona
+Comunicación a los key user de las evoluciones.
+Identificar procesos no cubiertos por el modelo Harmonie y definir la estrategia Zona sobre ellos
+Participación en los proyectos de la zona conforme definido en la roadmap AME ISD
+Asistencia a la definición de necesidades de evolución mayores de las filiales e identificar la integración en el modelo Master garantizando que se utilice en la medida de lo posible lo existente.
+Validación de cambios mayores y presupuesto asociado.
+Reportar a la gerencia el estado de los proyectos y el manejo de los recursos.
+Documentar todas las aplicaciones, su estructura, sus componentes y sus instructivos de uso
+Supervisar a los responsables de las distintas aplicaciones y seguimiento de los KPI para garantizar el respeto del Service Level Agreement.
